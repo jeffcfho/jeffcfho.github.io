@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeff C. Ho"
 title_separator          : "-"
 name                     : &name "Jeff C. Ho"
-description              : &description "Data Scientist"
+description              : &description "Technical Product Manager"
 url                      : https://jeffcfho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeffcfho/jeffcfho.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jeff C. Ho"
   avatar           : "profile.png"
-  bio              : "Data Scientist. Former Insight DS Fellow, Dir. of Science & Product at Cloud to Street, and Stanford PhD Researcher."
+  bio              : "Technical PM and lapsed DS. Former Insight Fellow, Dir. of Science & Product at Cloud to Street, and Stanford PhD Researcher."
   location         : "New York, NY"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=lLgELn4AAAAJ"
   email            : contactjeffho@gmail.com
