@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+This is a short list of articles written about projects I have worked on and am proud to have helped develop.
+
+## Known
+
+- *Ad Age*, [Clean Beauty Leader Beautycounter Is On A Mission To Change Beauty Forever](https://adage.com/creativity/work/change-beauty-forever/2284941){:target="_blank"}
+- *Ad Week*, [Beyond Meat’s First TV Ad Puts Earth, Wellness and Celebrities Front and Center](https://www.adweek.com/brand-marketing/beyond-meats-first-tv-ad-puts-earth-wellness-and-celebrities-front-and-center/){:target="_blank"}
+- *Promax 2020 Global Excellence Awards*, [Known named Agency of the Year](https://brief.promax.org/article/cnn-worldwide-known-win-2020-promax-global-excellence-honors){:target="_blank"}
+
 ## Cloud to Street
 - *Planet*, [How Flood Mapping From Space Protects The Vulnerable And Can Save Lives](https://www.planet.com/pulse/how-flood-mapping-from-space-protects-the-vulnerable-and-can-save-lives/){:target="_blank"}
 - *U.N. World Food Programme*, [Looking back at using advanced analytics for flood response in Congo](https://insight.wfp.org/a-flood-of-insights-8c3b2b8a4d4){:target="_blank"}
